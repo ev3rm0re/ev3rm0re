@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=GOOD%20BYE&fontSize=90&fontAlign=50&fontAlignY=70&desc=Have%20A%20Nice%20Day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=BYE&fontSize=90&fontAlign=50&fontAlignY=70&desc=Have%20A%20Nice%20Day!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
