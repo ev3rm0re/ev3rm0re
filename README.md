@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/ev3rm0re"><img src="https://img.shields.io/badge/GitHub-ev3rm0re-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/250672240"><img src="https://img.shields.io/badge/哔哩哔哩-ev3rm0re-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/250672240"><img src="https://img.shields.io/badge/哔哩哔哩-八月的盐空气-pink?logo=bilibili" /></a>
 <a href="https://wakatime.com/@ev3rm0re"><img src="https://wakatime.com/badge/user/0d415ee6-e0e6-4eda-b4a2-c7afa8b040f8.svg" /></a>
 <img src="https://komarev.com/ghpvc/?username=ev3rm0re" />
 </p>
