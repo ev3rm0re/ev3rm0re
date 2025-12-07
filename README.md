@@ -1,11 +1,7 @@
 <p align="center">
-<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ev3rm0re&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=ev3rm0re&theme=transparent&hide_border=true" /> -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=ev3rm0re&theme=transparent&hide_border=true" />
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ev3rm0re&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ev3rm0re&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ev3rm0re&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <br/>
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,html,css,js,md,latex">
 </p>
