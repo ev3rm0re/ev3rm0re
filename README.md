@@ -1,6 +1,4 @@
 <p align="center">
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=ev3rm0re&theme=transparent&hide_border=true" />
-<br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ev3rm0re&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,html,css,js,md,latex">
